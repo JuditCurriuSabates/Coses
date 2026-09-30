@@ -1,0 +1,9 @@
+# Ignorar executables i binaris
+*.exe
+*.o
+*.our
+
+#Ignorar fitxers de configuracio d'editors (brossa
+.vscode/
+.idea/
+.DS_Store

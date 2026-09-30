@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(void) {
+	printf("Hola món!\n");
+	return 0;
+}
